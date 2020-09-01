@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jLabel1" max="32767" attributes="0"/>
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jScrollPane1" pref="436" max="32767" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="jLabel2" min="-2" pref="626" max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Times New Roman" size="36" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="                                                    More About Airline System"/>
+            <Property name="toolTipText" type="java.lang.String" value=""/>
+            <Property name="horizontalTextPosition" type="int" value="0"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/Image/99.jpg"/>
+            </Property>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextArea" name="jTextArea1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="columns" type="int" value="20"/>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Times New Roman" size="24" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="0" red="0" type="rgb"/>
+                </Property>
+                <Property name="rows" type="int" value="5"/>
+                <Property name="text" type="java.lang.String" value="The earliest fixed wing airline in Europe was Aircraft Transport and Travel, formed by George Holt Thomas in 1916; via a series of takeovers and mergers, this company is an ancestor of modern-day British Airways. Using a fleet of former military Airco DH.4A biplanes that had been modified to carry two passengers in the fuselage, it operated relief flights between Folkestone and Ghent. On 15 July 1919, the company flew a proving flight across the English Channel, despite a lack of support from the British government. Flown by Lt. H Shaw in an Airco DH.9 between RAF Hendon and Paris &#x2013; Le Bourget Airport, the flight took 2 hours and 30 minutes at &#xa3;21 per passenger.&#xa;&#xa;On 25 August 1919, the company used DH.16s to pioneer a regular service from Hounslow Heath Aerodrome to Le Bourget, the first regular international service in the world. The airline soon gained a reputation for reliability, despite problems with bad weather, and began to attract European competition. In November 1919, it won the first British civil airmail contract. Six Royal Air Force Airco DH.9A aircraft were lent to the company, to operate the airmail service between Hawkinge and Cologne. In 1920, they were returned to the Royal Air Force.&#xa;&#xa;Other British competitors were quick to follow &#x2013; Handley Page Transport was established in 1919 and used the company&apos;s converted wartime Type O/400 bombers with a capacity for 12 passengers,&#xa; to run a London-Paris passenger service.&#xa;&#xa;The first French airline was Soci&#xe9;t&#xe9; des lignes Lat&#xe9;co&#xe8;re, later known as A&#xe9;ropostale, which started its first service in late 1918 to Spain. &#xa;The Soci&#xe9;t&#xe9; G&#xe9;n&#xe9;rale des Transports A&#xe9;riens was created in late 1919, by the Farman brothers and the Farman F.60 Goliath plane flew scheduled services from Toussus-le-Noble to Kenley, near Croydon, England. &#xa;Another early French airline was the Compagnie des Messageries A&#xe9;riennes, established in 1919 by Louis-Charles Breguet, offering a mail and freight service between Le Bourget Airport, Paris and Lesquin Airport, Lille.&#xa;&#xa;&#xa;Junkers F.13 D-190 of Junkers Luftverkehr&#xa;The first German airline to use heavier than air aircraft was Deutsche Luft-Reederei established in 1917 which started operating in February 1919. In its first year,&#xa; the D.L.R. operated regularly scheduled flights on routes with a combined length of nearly 1000 miles. By 1921 the D.L.R. network was more than 3000 km (1865 miles) long, &#xa;and included destinations in the Netherlands, Scandinavia and the Baltic Republics. Another important German airline was Junkers Luftverkehr, which began operations in 1921.&#xa; It was a division of the aircraft manufacturer Junkers, which became a separate company in 1924. It operated joint-venture airlines in Austria, Denmark, Estonia, Finland, Hungary, Latvia, Norway, Poland, Sweden and Switzerland.&#xa;&#xa;The Dutch airline KLM made its first flight in 1920, and is the oldest continuously operating airline in the world. &#xa;Established by aviator Albert Plesman,[11] it was immediately awarded a &quot;Royal&quot; predicate from Queen Wilhelmina.&#xa; Its first flight was from Croydon Airport, London to Amsterdam, using a leased Aircraft Transport and Travel DH-16, and carrying two British journalists and a number of newspapers. In 1921, KLM started scheduled services.&#xa;&#xa;In Finland, the charter establishing Aero O/Y (now Finnair) was signed in the city of Helsinki on September 12, 1923. &#xa;Junkers F.13 D-335 became the first aircraft of the company, when Aero took delivery of it on March 14, 1924. The first flight was between Helsinki and Tallinn, capital of Estonia, and it took place on March 20, 1924, one week later.&#xa;&#xa;In the Soviet Union, the Chief Administration of the Civil Air Fleet was established in 1921. &#xa;One of its first acts was to help found Deutsch-Russische Luftverkehrs A.G. (Deruluft), a German-Russian joint venture to provide air transport from Russia to the West. &#xa;Domestic air service began around the same time, when Dobrolyot started operations on 15 July 1923 between Moscow and Nizhni Novgorod. Since 1932 all operations had been carried under the name Aeroflot.&#xa;&#xa;The relatively basic navigational capabilities of pilots at the time also meant that delays due to the weather were commonplace."/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
