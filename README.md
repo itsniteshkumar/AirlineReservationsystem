@@ -9,3 +9,6 @@
 5. Create database for different types of name which is describe in the figure.
 6. Connect the database through myconnection.java file.
 7. This connection is only for wamp server (localhost phphmyadmin). 
+8. Flight are booked through Flight reservation module in which all details regarding customer and flight are entered through the database if you know our customer id and flight id.
+9. It is important to remember your customer id and ticket no in this whole process, if you forgot your customer id and ticket no than you can ask me in the help section with your query.
+10. The main purpose of this software is to reduce the manual errors involved in the airline reservation process and make it convenient for the customers to book the flights as when they require such that they can utilize this software to make reservations, modify reservations or cancel a particular reservation.
