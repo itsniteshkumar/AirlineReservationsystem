@@ -1,4 +1,4 @@
-Amazing Project- The Airline Reservation System 
+Airline Reservation System is an awesome.
 
 1. In this project we are providing alot of functions for the process. at first we will open the first page.java file than, 
 2. Clicking on the login page if you have already a account. if you donot have any account than click on SignUp button for a new user.
